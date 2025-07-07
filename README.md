@@ -47,6 +47,7 @@ Random Under Sampling (RUS)
 These techniques help to create a balanced training dataset for better generalization.
 
 🚀 How to Run
+
 Install dependencies
 
 bash
@@ -95,6 +96,8 @@ seaborn
 scikit-learn
 imbalanced-learn
 xgboost
+
+
 📚 References
 imblearn documentation
 
@@ -103,7 +106,7 @@ Scikit-learn docs
 Kaggle dataset
 
 🧑‍💻 Author
-Ojith Adithya – LinkedIn | GitHub
+Ojith Adithya – LinkedIn -- https://github.com/ojixthx/Credit-Card-Fraud-Detection | GitHub -- 
 
 
 
