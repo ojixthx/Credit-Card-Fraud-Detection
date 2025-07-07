@@ -106,7 +106,7 @@ Scikit-learn docs
 Kaggle dataset
 
 🧑‍💻 Author
-Ojith Adithya – LinkedIn -- https://github.com/ojixthx/Credit-Card-Fraud-Detection | GitHub -- 
+Ojith Adithya – LinkedIn -- https://github.com/ojixthx/Credit-Card-Fraud-Detection | GitHub -- https://github.com/ojixthx
 
 
 
